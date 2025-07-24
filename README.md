@@ -1,4 +1,4 @@
-##🚗 Car Price Predictor
+## 🚗 Car Price Predictor
 
 A simple machine learning web app that predicts the selling price of used cars based on their features. Built with Python, trained using Linear Regression, and powered by a Flask web interface.
 
